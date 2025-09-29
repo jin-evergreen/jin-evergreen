@@ -1,16 +1,33 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient:00C9A7,92FE9D&height=300&section=header&text=JinSeok%20Park&fontColor=F5F5F5)
 
-<!--
-**jin-evergreen/jin-evergreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎒ACTIVITY
+#### DIVE SOPT 37th Web [2025.09 ~ 2026.01]
+#### LG CNS AI Genius 14th [2025.09 ~ 2025.12]
+#### CJ OliveNetworks CJ UNIT 7th/8th [2022.08 ~ 2023.07]
+#### Naver Connect '1784 스쿨혁명' 대학생 멘토 [2023.01 ~ 2023.02]
+#### KB Dream Wave 찾아가는 코딩 교육 대학생 멘토 [2022.04 ~ 2022.12]
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥Tech Stack
+  ### Language
+  <!--JavaScript-->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <!--HTML5-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <!--CSS-->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <br/>
+
+  ### Library
+  <!--React-->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <br/>
+
+### ETC
+  <!--Git-->
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <!--GitHub-->
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+  <!--Notion-->
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
